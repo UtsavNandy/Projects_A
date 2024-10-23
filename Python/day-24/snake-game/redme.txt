@@ -1,0 +1,7 @@
+writhing in file using python
+r = read mode 
+w = write mode
+a = append
+x = creates a new file for writhing
+r+ = w+ = read and write both
+a+ = append and read 
